@@ -2,7 +2,7 @@
 - 👀 I’m interested in Choose my domain as SDE
 - 🌱 I’m currently learning HTML,Wed development
 - 💞️ I’m looking to collaborate on Learning new things
-- 📫 How to reach me Sharavanragav@gamil.com
+- 📫 How to reach me Sharavanaragav@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I actually more into biology hahaha
 - 
