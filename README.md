@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sharavana Ragav S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Happy+Coding!">
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 🙋‍♂️ About Me  
 
-🔹 **Student Coordinator** at SRMIST, Vadapalani  
-🔹 Passionate about **Design, IoT, AI in Game Development, and Data Analytics**  
-🔹 Currently working on **Smart Car Parking System with IoT, AI & DBMS**  
-🔹 Exploring **Reinforcement Learning & Adaptive AI in Games**  
-🔹 Developed **TapNScan** – An NFC scanning Android app using Java  
+- **Student Coordinator** at SRMIST, Vadapalani  
+- Passionate about **Design, IoT, AI in Game Development, and Data Analytics**  
+- Currently working on **Smart Car Parking System with IoT, AI & DBMS**  
+- Exploring **Reinforcement Learning & Adaptive AI in Games**  
+- Developed **TapNScan** – An NFC scanning Android app using Java  
 
 ---
 
@@ -50,32 +50,32 @@
 
 ## 🚀 Key Projects  
 
-🔹 **TapNScan** – An Android app built with Java that scans NFC cards and collects their details.  
-🔹 **Smart Car Parking System** – IoT, AI, DBMS-based parking optimization system.  
-🔹 **Restaurant Website** – HTML, CSS-based responsive web design.  
-🔹 **GitHub Portfolio Website** – Personal branding website using Bootstrap.  
+- **TapNScan** – An Android app built with Java that scans NFC cards and collects their details.  
+- **Smart Car Parking System** – IoT, AI, DBMS-based parking optimization system.  
+- **Restaurant Website** – HTML, CSS-based responsive web design.  
+- **GitHub Portfolio Website** – Personal branding website using Bootstrap.  
 
 ---
 
 ## 🏆 Achievements & Roles  
 
-🏅 **Student Coordinator** – II-CSE B, SRMIST Vadapalani  
-🏅 **Freelance Web Designer** – Built a playschool website  
+- **Student Coordinator** – II-CSE B, SRMIST Vadapalani  
+- **Freelance Web Designer** – Built a playschool website  
 
 ---
 
 ## 🌱 Current Focus  
 
-🧠 **DSA Mastery** – Improving problem-solving & algorithms  
-📊 **Data Visualization** – Creating interactive dashboards with **Power BI**  
-🤖 **AI in Gaming** – Exploring **Reinforcement Learning** for Dynamic Difficulty Adjustment  
-🛠 **IoT & Embedded Systems** – Smart Car Parking System  
+- **DSA Mastery** – Improving problem-solving & algorithms  
+- **Data Visualization** – Creating interactive dashboards with **Power BI**  
+- **AI in Gaming** – Exploring **Reinforcement Learning** for Dynamic Difficulty Adjustment  
+- **IoT & Embedded Systems** – Smart Car Parking System  
 
 ---
 
 ## 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharavana-ragav-444665344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharavana-ragav-444665344)  
 [![Mail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sharavanaragav@gmail.com)  
 
 ---
@@ -90,7 +90,7 @@
 
 ## 🤖 AI Experience  
 
-💬 I enjoy exploring and working with **AI tools**, including **ChatGPT** for research, brainstorming, and automating repetitive tasks.
+I enjoy exploring and working with **AI tools**, including **ChatGPT** for research, brainstorming, and automating repetitive tasks.
 
 ---
 
@@ -99,12 +99,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharavana07&theme=github-dark" width="95%">
 </p>
-
----
-
-## 🎯 LeetCode & GeeksforGeeks Stats  
-
-(If you have LeetCode/GFG profiles, add the respective stats here)
 
 ---
 
