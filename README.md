@@ -83,7 +83,7 @@
 ## 🛠 IDEs & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vs,vscode,figma,ps,github,git,androidstudio,canva,intellij" alt="Tools I Use">
+  <img src="https://skillicons.dev/icons?i=vs,vscode,figma,ps,github,git,androidstudio,html,css,javascript,mongodb,idea,bootstrap,c,cpp,windows,stackoverflow" alt="Tools I Use">
 </p>
 
 ---
