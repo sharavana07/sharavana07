@@ -1,30 +1,29 @@
-<h1 align="center">Hi, I'm Sharavana Ragav S 👋</h1>
+# <h1 align="center">Hi, I'm Sharavana Ragav S 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Happy+Coding!">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharavana07&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor count">
+  <img src="https://komarev.com/ghpvc/?username=sharavana07&label=Profile+Views&color=0e75b6&style=flat-square" alt="Visitor count">
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me  
 
-- **Student Coordinator** at SRMIST, Vadapalani  
-- Passionate about **Design, IoT, AI in Game Development, and Data Analytics**  
-- Currently working on **Smart Car Parking System with IoT, AI & DBMS**  
-- Exploring **Reinforcement Learning & Adaptive AI in Games**  
-- Developed **TapNScan** – An NFC scanning Android app using Java  
+- **Student Coordinator** | II-CSE B, SRMIST Vadapalani  
+- Enthusiast in **IoT, AI in Game Development, Data Analytics & Design**  
+- Currently developing a **Smart Car Parking System** integrating IoT, AI & DBMS  
+- Exploring **Reinforcement Learning & Adaptive AI for Gaming**  
+- Created **TapNScan** – An NFC-based Android app using Java  
 
 ---
 
-## ⚡ GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharavana07&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharavana07&theme=dark&hide_border=true" width="48%">
 </p>
 
 <p align="center">
@@ -37,39 +36,39 @@
 
 | Category  | Technologies |
 |-----------|-------------|
-| **Languages** | Python, Java, C, HTML, CSS |
+| **Programming Languages** | Python, Java, C, HTML, CSS |
 | **Frameworks & Libraries** | Bootstrap, React (Learning) |
 | **Databases** | MySQL, Firebase |
-| **IoT & Hardware** | ESP32, Wokwi, Arduino |
-| **AI & ML** | Reinforcement Learning (Exploring) |
+| **IoT & Embedded Systems** | ESP32, Wokwi, Arduino |
+| **AI & Machine Learning** | Reinforcement Learning (Exploring) |
 | **Android Development** | Java, Android Studio |
-| **Data Analysis & Visualization** | Power BI |
-| **Design** | Canva, Photoshop, Figma |
+| **Data Analytics & Visualization** | Power BI |
+| **Design & UI/UX** | Canva, Photoshop, Figma |
 
 ---
 
 ## 🚀 Key Projects  
 
-- **TapNScan** – An Android app built with Java that scans NFC cards and collects their details.  
-- **Smart Car Parking System** – IoT, AI, DBMS-based parking optimization system.  
-- **Restaurant Website** – HTML, CSS-based responsive web design.  
-- **GitHub Portfolio Website** – Personal branding website using Bootstrap.  
+- **TapNScan** – NFC-based Android app built with Java.  
+- **Smart Car Parking System** – AI-driven IoT solution for optimized parking.  
+- **Restaurant Website** – Responsive web design using HTML & CSS.  
+- **GitHub Portfolio Website** – Personal branding site powered by Bootstrap.  
 
 ---
 
-## 🏆 Achievements & Roles  
+## 🏆 Roles & Achievements  
 
 - **Student Coordinator** – II-CSE B, SRMIST Vadapalani  
-- **Freelance Web Designer** – Built a playschool website  
+- **Freelance Web Designer** – Developed a playschool website  
 
 ---
 
 ## 🌱 Current Focus  
 
-- **DSA Mastery** – Improving problem-solving & algorithms  
-- **Data Visualization** – Creating interactive dashboards with **Power BI**  
+- **Data Structures & Algorithms** – Enhancing problem-solving & efficiency  
+- **Data Visualization** – Interactive dashboards with **Power BI**  
 - **AI in Gaming** – Exploring **Reinforcement Learning** for Dynamic Difficulty Adjustment  
-- **IoT & Embedded Systems** – Smart Car Parking System  
+- **IoT & Embedded Systems** – Implementing Smart Car Parking System  
 
 ---
 
@@ -80,17 +79,17 @@
 
 ---
 
-## 🛠 IDEs & Tools  
+## 🛠 Tools & IDEs  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vs,vscode,figma,ps,github,git,androidstudio,html,css,javascript,mongodb,idea,bootstrap,c,cpp,windows,stackoverflow" alt="Tools I Use">
+  <img src="https://skillicons.dev/icons?i=vs,vscode,figma,ps,github,git,androidstudio,html,css,bootstrap,c,cpp,windows" alt="Tools I Use">
 </p>
 
 ---
 
-## 🤖 AI Experience  
+## 🤖 AI & Automation  
 
-I enjoy exploring and working with **AI tools**, including **ChatGPT** for research, brainstorming, and automating repetitive tasks.
+I leverage **AI tools** such as **ChatGPT** for research, brainstorming, and task automation to enhance productivity.
 
 ---
 
@@ -108,4 +107,6 @@ I enjoy exploring and working with **AI tools**, including **ChatGPT** for resea
 
 ---
 
-💙 **Thank You for Visiting My Profile!** 🚀
+💙 **Thank You for Visiting My Profile!** 🚀  
+
+This version enhances clarity, improves readability, and maintains a professional yet engaging tone. Let me know if you need any further modifications! 🚀
