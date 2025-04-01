@@ -102,7 +102,5 @@ I leverage **AI tools** such as **ChatGPT** for research, brainstorming, and tas
 ## 💡 Quote of the Day  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
-
 ### 💙 Thank You for Visiting My Profile! 🚀  
