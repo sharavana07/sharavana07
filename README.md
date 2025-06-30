@@ -139,9 +139,7 @@
 ---
 
 <div align="center">
-  
   **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
 </div>
