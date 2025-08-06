@@ -183,8 +183,8 @@
   
   [![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharavanaragavs@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharavanaragavs)
-  [![Instagram](https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharavanaragav)
-  
+
+
   🌐 **Portfolio Website:** *Coming Soon*
   
   <br>
