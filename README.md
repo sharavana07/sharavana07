@@ -43,7 +43,7 @@
 | 👨‍💼 **Deputy Chief Editor** | CSE Department Newsletter | Current |
 | ✍️ **Content Writer** | CSE Department Newsletter | 2 Volumes |
 | 🎨 **Freelance Designer** | UI/UX Design & Visual Content | Ongoing |
-| 🎨💻 **Biozync Website Developer | Full stack web dev | Live |
+| 🎨💻 **Biozync Website Developer** | Full stack web dev | Live |
 | 💻 **Web Development Intern** | InternWays | 7 Months |
 
 </div>
