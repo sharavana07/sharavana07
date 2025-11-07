@@ -127,16 +127,6 @@
 
 ---
 
-### 🩸 Blood Bank Management System
-<img align="left" alt="Healthcare" width="200" src="https://user-images.githubusercontent.com/74038190/212749695-7b9087c9-35c6-4e2d-82be-e8abac7d46b5.gif">
-
-**Tech Stack:** `HTML` `JavaScript` `Node.js` `PostgreSQL`  
-**Features:**  
-🔒 Secure donor records management  
-📋 Eligibility filtering system  
-📦 Real-time inventory tracking  
-*Connecting donors with those in need through efficient data management*
-
 <br clear="left"/>
 
 ---
