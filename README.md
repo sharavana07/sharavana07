@@ -158,7 +158,9 @@
   <br><br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharavana07&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=2563EB&fire=3B82F6&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  
+  <br>
+  ### 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharavana07&layout=compact&theme=tokyonight&langs_count=8)
 </div>
 
 ---
